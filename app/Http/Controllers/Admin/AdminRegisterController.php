@@ -18,7 +18,7 @@ class AdminRegisterController extends Controller
     // 登録画面呼び出し
     public function create(): View
     {
-        return view('admin.auth.register');
+        return view('admin.register');
     }
 
     // 登録実行
