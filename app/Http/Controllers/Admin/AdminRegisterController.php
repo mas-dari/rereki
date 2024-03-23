@@ -18,7 +18,7 @@ class AdminRegisterController extends Controller
     // 登録画面呼び出し
     public function create(): View
     {
-        return view('resources/views/admin/auth/register.blade.php');
+        return view('admin.auth.register');
     }
 
     // 登録実行
