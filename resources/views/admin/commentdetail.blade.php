@@ -20,7 +20,7 @@
             <div class="w-auto text-slate-700 text-xs font-normal font-['Noto Sans JP'] tracking-wide ">基本情報</div>
         </div>
     </a>
-    <a href="/commentdetail">
+    <a href="/admin/commentdetail">
         <div id="detail" class="w-auto h-5 px-[11px] py-1 justify-center items-center gap-2 inline-flex hover:bg-neutral-200">
             <div class="w-auto text-slate-700 text-xs font-normal font-['Noto Sans JP'] tracking-wide">職務経歴</div>
         </div>
