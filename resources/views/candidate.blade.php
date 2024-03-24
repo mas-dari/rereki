@@ -30,12 +30,12 @@
 
 {{-- 基本情報/職務経歴の選択 --}}
 <div class="container mx-auto max-w-full grid grid-cols-12">
-    <a href="http://localhost/candidate">
+    <a href="/candidate">
         <button id="basic" class="w-auto h-5 px-[11px] py-1 justify-center items-center gap-2 inline-flex hover:bg-neutral-200">
             <div class="w-auto text-slate-700 text-sm font-normal font-['Noto Sans JP'] tracking-wide ">基本情報</div>
         </button>
     </a>
-    <a href="http://localhost/candidatedetail">
+    <a href="/candidatedetail">
         <button id="detail" class="w-auto h-5 px-[11px] py-1 justify-center items-center gap-2 inline-flex hover:bg-neutral-200">
             <div class="w-auto text-slate-700 text-sm font-normal font-['Noto Sans JP'] tracking-wide">職務経歴</div>
         </button>
