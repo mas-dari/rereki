@@ -6,7 +6,7 @@
             </div>
 
         <div class="col-span-1 pt-6">
-            <a href="http://localhost/admin/commentdetail">
+            <a href="/commentdetail">
                 <button type="submit" class=" text-[min(13vw,14px)] bg-gray-500 hover:bg-gray-700 text-white font-bold py-1 px-1 rounded justify-items-end">コメント確認</button>
             </a>
         </div>
@@ -14,12 +14,12 @@
 
 {{-- 基本情報/職務経歴の選択 --}}
 <div class="container mx-auto grid grid-cols-12 ">
-    <a href="http://localhost/admin/dashboard">
+    <a href="/admin/dashboard">
         <div id="basic" class="w-auto h-5 px-[11px] py-1 justify-center items-center gap-2 inline-flex hover:bg-neutral-200">
             <div class="w-auto text-slate-700 text-xs font-normal font-['Noto Sans JP'] tracking-wide ">基本情報</div>
         </div>
     </a>
-    <a href="http://localhost/admin/detail">
+    <a href="/admin/detail">
         <div id="detail" class="w-auto h-5 px-[11px] py-1 justify-center items-center gap-2 inline-flex hover:bg-neutral-200">
             <div class="w-auto text-slate-700 text-xs font-normal font-['Noto Sans JP'] tracking-wide">職務経歴</div>
         </div>
