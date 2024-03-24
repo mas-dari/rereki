@@ -6,7 +6,7 @@
             </div>
 
         <div class="col-span-1 pt-6">
-            <a href="/commentdetail">
+            <a href="/admin/commentdetail">
                 <button type="submit" class=" text-[min(13vw,14px)] bg-gray-500 hover:bg-gray-700 text-white font-bold py-1 px-1 rounded justify-items-end">コメント確認</button>
             </a>
         </div>
